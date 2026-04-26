@@ -5,4 +5,3 @@
 - Debugger - Analyze and control JavaScript execution 
 - Network - Monitor all requests between browser & server.
 
-![[Walking an Application-view page source.png|692]]
